@@ -9,7 +9,7 @@ Explore my Notepad project! It's a cool text editor featuring file, edit, and fo
 ### Getting Started
 1.**Clone the repository:**
 '''bash
-git clone<>
+git clone<https://github.com/BibiEman/Notepad.git>
 
 
 STEPS:
