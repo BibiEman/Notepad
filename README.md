@@ -53,5 +53,9 @@ File Menu:
   -Font an Font Size:
    *Customize text font an size through the font and font size options in the format menu.
   
+Thank you Ma'am Asia for inspiring us to make this wonderful project.
 
+Developers:
+1. Bibi Eman
+2. Muqadas 
       
